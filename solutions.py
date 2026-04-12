@@ -32,7 +32,7 @@ warnings.filterwarnings("ignore")  # Keep output clean for beginner
 # API CONFIGURATION
 # =============================================================================
 # Replace with your actual API key from https://aistudio.google.com/
-API_KEY = "AIzaSyDedl5XtWol9Y242DAHzeZCpfH6eP01wuo" 
+API_KEY = "" 
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel('gemini-3-flash-preview')
 
