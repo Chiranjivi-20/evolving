@@ -1,0 +1,6 @@
+{
+  "name": "Vehicle Management System",
+  "description": "A structured role-based vehicle catalog and inventory manager supporting detailed manufacturer logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
